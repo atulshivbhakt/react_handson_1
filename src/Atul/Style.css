@@ -1,0 +1,38 @@
+.two{
+    /* margin-top: 200px;
+    margin-left: 50px; */
+    background-color: blueviolet;
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+    text-align: center;
+    border-radius: 20px;
+    position: absolute;
+    top: 380px;
+    left: 800px;
+}
+.one{
+    margin-top: 150px;
+    margin-left: 100px;
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+    text-align: center;
+    border-radius: 20px;
+}
+.hello{
+    display: inline-block;
+}
+button{
+    background-color: rgb(93, 150, 150);
+    padding: 10px 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin: 50px;
+}
+button:hover{
+    background-color: aqua;
+}
